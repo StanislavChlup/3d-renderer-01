@@ -1,1 +1,70 @@
 
+body {
+
+    font-size: 15pt;
+
+    background-color: black;
+
+}
+
+#canvas{
+
+	width: 400px;	border: solid;
+
+	position: absolute;
+
+	top: 50%;
+
+	left: 50%;
+
+	margin: -250px 0 0 -200px;
+
+}
+
+#cam{
+
+	width: 100%;
+
+}
+
+#fps{
+
+	color: slategray;
+
+}
+
+#start{
+
+	background-color: darkslategray;
+
+	color: slategray;
+
+	position: absolute;
+
+	width: 45%;
+
+	height: 50px;
+
+	bottom: 40px;
+
+	left: 10px;
+
+}
+
+#stop{
+
+	position: absolute;
+
+	background-color: darkslategray;
+
+	color: slategray;
+
+	width: 45%;
+
+	height: 50px;
+
+	bottom: 40px;
+
+	right: 10px;
+
+}
